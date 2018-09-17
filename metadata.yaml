@@ -1,5 +1,8 @@
 _repo: Kalevala-nayttamolla-II-sarja-of-3_52526
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Leino, Eino
@@ -18,6 +21,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Eino_Leino
     - http://en.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52526#Kalevala-nayttamolla-II-sarja-of-3
 gutenberg_issued: '2016-07-08'
 gutenberg_type: Text
 identifiers:
